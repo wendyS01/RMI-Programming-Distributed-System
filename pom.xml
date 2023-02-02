@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>quoco-rmi</artifactId>
+    <version>0.0.1</version>
+    <packaging>pom</packaging>
+
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+
+    <modules>
+        <module>core</module>
+        <module>auldfellas</module>
+        <module>dodgydrivers</module>
+        <module>girlpower</module>
+        <module>client</module>
+        <module>broker</module>
+    </modules>
+
+</project>
